@@ -18,12 +18,12 @@
   "author": "Fauzi",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kizakixx/zaki-api.git"
+    "url": "https://github.com/AREXANS/zzz.git"
   },
   "bugs": {
-    "url": "https://github.com/kizakixd/zaki-api/issues"
+    "url": "https://github.com/AREXANS/zzz/issues"
   },
-  "homepage": "https://github.com/kizakixd/zaki-api",
+  "homepage": "https://github.com/AREXANS/zzz",
   "license": "ISC",
   "dependencies": {
     "@bochilteam/scraper": "^0.0.5",
